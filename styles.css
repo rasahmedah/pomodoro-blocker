@@ -13,7 +13,7 @@ body {
 
 data-percent {
     --angle: 360deg;
-    --color: 'blue';
+    --color: blue;
 
     display: grid;
     place-Items: center;
